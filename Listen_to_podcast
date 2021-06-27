@@ -2,3 +2,42 @@
 <html>
 <head>
 <style>
+
+body{
+background-color: #000000;
+}
+
+h1{
+text-align:center;
+text-size: 100px;
+font-family: 'Courier New',monospace;
+}
+
+h2{
+text-align: center;
+text-size: 75px;
+font-family: 'Courier New',monospace;
+}
+
+p{
+text-align: center;
+text-size: 50px;
+font-family: 'Courier New', monospace;
+}
+
+
+</style>
+</head>
+
+    <body>
+      <h1 style="border: 2px solid Red">
+        <h1 style=:color; #8D0000;"> Seek3rs Podcast</h1>
+       <img src="" alt"Seek3rs Logo"></img>
+      <h1 style="border: 2px solid Red">
+      
+      <h2 style="color:#FFFFFF;"> Listen to us.</h2>
+      
+        <p style="color:#8D0000;"> Hello people of the interwebs, looks like you found our little website.We are the <b> Seek3rs</b> and this is the page where you can find where you can listen to us at, so go ahead and click on your favorite podcast listening site and give us a listen.</p>
+        
+       
+        
